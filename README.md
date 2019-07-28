@@ -1,4 +1,5 @@
-## An experimental single page app without any UI framework (router, data binding, component system)
+## An experimental single page app which is written without any modern UI framework 
+## Supports: routing, data binding, component system
 
 ### Router
 
